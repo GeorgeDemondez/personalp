@@ -95,7 +95,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('Untitled.png') no-repeat;
+    background: url('src/Untitled.png') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -583,7 +583,7 @@ span {
 
 .project {
     
-    background: url("Screenshot 2025-04-01 122752.png");
+    background: url("src/Screenshot 2025-04-01 122752.png");
     background-size: cover;
     background-position: center;
     padding: 50px;
@@ -596,7 +596,7 @@ span {
 
 .project1 {
     
-    background: url("Screenshot 2025-04-01 132926.png");
+    background: url("src/Screenshot 2025-04-01 132926.png");
     background-size: cover;
     background-position: center;
     padding: 50px;
